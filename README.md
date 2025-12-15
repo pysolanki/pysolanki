@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pysolanki&label=Profile%20views&color=0e75b6&style=flat" alt="pysolanki" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thepysolanki" target="blank"><img src="https://img.shields.io/twitter/follow/27abhi27?logo=twitter&style=for-the-badge" alt="27abhi27" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thepysolanki" target="blank"><img src="https://img.shields.io/twitter/follow/27abhi27?logo=twitter&style=for-the-badge" alt="thepysolanki" /></a> </p>
 
 - 💬 Ask me about **Data Science, Python, PostgreSQL**
 
